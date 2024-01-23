@@ -1,0 +1,60 @@
+	-------------STUDENT FILE-------------
+
+Student Id: 5345  Mark for 3275: 67   Mark for 3150: 89
+
+Student Id: 8765  Mark for 3275: 90   Mark for 3150: 87
+
+Student Id: 7653  Mark for 3275: 88   Mark for 3150: 43
+
+Student Id: 7321  Mark for 3275: 50   Mark for 3150: 50
+
+Student Id: 1246  Mark for 3275: 67   Mark for 3150: 68
+
+Student Id: 1258  Mark for 3275: 78   Mark for 3150: 95
+
+Student Id: 2349  Mark for 3275: 65   Mark for 3150: 54
+
+Student Id: 2346  Mark for 3275: 34   Mark for 3150: 22
+
+Student Id: 2367  Mark for 3275: 65   Mark for 3150: 41
+
+Student Id: 2388  Mark for 3275: 56   Mark for 3150: 71
+
+
+Number of students: 10
+
+
+Highest mark received in 3275: 90
+Lowest mark received in 3275: 34
+
+
+Highest mark received in 3150: 95
+Lowest mark received in 3150: 22
+
+
+Average of marks for 3275: 66
+Average of marks for 3150: 62
+
+
+-------------DIFFERENCE FROM AVERAGE (Course: 3150)----------
+
+Student Id: 5345   Mark for 3150: 89   Difference from Average: 27
+
+Student Id: 8765   Mark for 3150: 87   Difference from Average: 25
+
+Student Id: 7653   Mark for 3150: 43   Difference from Average: -19
+
+Student Id: 7321   Mark for 3150: 50   Difference from Average: -12
+
+Student Id: 1246   Mark for 3150: 68   Difference from Average: 6
+
+Student Id: 1258   Mark for 3150: 95   Difference from Average: 33
+
+Student Id: 2349   Mark for 3150: 54   Difference from Average: -8
+
+Student Id: 2346   Mark for 3150: 22   Difference from Average: -40
+
+Student Id: 2367   Mark for 3150: 41   Difference from Average: -21
+
+Student Id: 2388   Mark for 3150: 71   Difference from Average: 9
+
